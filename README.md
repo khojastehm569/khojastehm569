@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fac: ...
 -->
 import requests
-import base64
+impot base64
 import zipfile
 import io
 i
