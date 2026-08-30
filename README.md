@@ -18,7 +18,7 @@ port requests
 mpot base64
 file
 t 
-i
+
 
 # ----------------------------
 # 1️⃣  BASIC SETTINGS
