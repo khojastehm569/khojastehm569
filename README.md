@@ -15,7 +15,7 @@
 ...
 -->
 port requests
-mpot base64
+t base64
 file
 t 
 
