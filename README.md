@@ -22,7 +22,7 @@ s
 # ----------------------------
 # 1️⃣SIC SETTINGS
 # ----------------------------
-owner = "OWNER"          # e.g. "torvalds"
+wner = "OWNER"          # e.g. "torvalds"
 repo  = "REPO"           # e.g. "linux"
 branch = "main"          # or the default branch you need
 # If the repo is private, set a token here:
