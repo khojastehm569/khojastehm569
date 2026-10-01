@@ -20,7 +20,7 @@
 
 
 # ----------------------------
-# 1️⃣SIC SETTINGS
+# 1️⃣SIC SETT
 # ----------------------------
 r = "OWNER"          # e.g. "torvalds"
 po  = "REPO"           # e.g. "linux"
