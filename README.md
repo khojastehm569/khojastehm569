@@ -23,7 +23,7 @@
 # 1️⃣SIC SETT
 # ----------------------------
  = "OWNER"          # e.g. "torvalds"
-  PO"           # e.g. "linux"
+ "           # e.g. "linux"
 anch = "main"          # or the default branch you need
 # If the repo is private, set a token here:
 # token = "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
