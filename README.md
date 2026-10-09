@@ -22,7 +22,7 @@
 # ----------------------------
 # 1️⃣SICETT
 # ----------------------------
- = "OWNER"          # e.g. "torvalds"
+ = "OWNER"          # e. "torvalds"
  "           # e.g. "linux"
 anch = "main"          # or the default branch you need
 # If the repo is private, set a token here:
