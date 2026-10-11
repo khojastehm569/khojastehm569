@@ -24,7 +24,7 @@
 # ----------------------------
  = "NER"          # e. "torvalds"
  "           # e.g. "linux"
-anch = "main"          # or the default branch you need
+ch = "main"          # or the default branch you need
 # If the repo is private, set a token here:
 # token = "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 # headers = {"Authorization": f"token {token}"}
