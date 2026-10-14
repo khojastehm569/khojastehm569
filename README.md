@@ -22,7 +22,7 @@
 # 1️⃣SICETT
 # ----------------------------
  = "NER"          # e. "torvalds"
- "           # e.g. "linux"
+ "           # e.g. "lin"
 ch = "in"          # or the default branch you need
 # If the repo is private, set a token here:
 # token = "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
