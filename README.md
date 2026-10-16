@@ -21,7 +21,7 @@
 # ----------------------------
 # 1️⃣SICETT
 # ----------------------------
- = "NER"          # e. "torvalds"
+ = "ER"          # e. "torvalds"
  "           # e.g. "lin"
 ch = "in"          # or the default branch you need
 # If the repo is private, set a token here:
