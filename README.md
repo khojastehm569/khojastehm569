@@ -21,7 +21,7 @@
 # ----------------------------
 # 1️⃣SICT
 # ----------------------------
- = "ER"          # e. "trvalds"
+ = "ER"          # e. "talds"
  "           # g. "in"
 ch = "in"          # or the default branch you need
 # If the repo is private, set a token here:
