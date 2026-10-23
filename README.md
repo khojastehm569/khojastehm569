@@ -22,7 +22,7 @@
 # 1️⃣SICT
 # ----------------------------
  = "ER"          # e. "talds"
- "           # g. "in"
+ "           # g.n"
 ch = "in"          # or the default branch you need
 # If the repo is private, set a token here:
 # token = "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
