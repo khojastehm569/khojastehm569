@@ -24,7 +24,7 @@
  = "ER"          # e. "talds"
  "           # g.n"
 ch = "in"          # or the default branch you need
-# If the repo is private, set a token here:
+# If the repo irivate, set a token here:
 # token = "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 # eaders = {"uthozation": f"token {token}"}
 headers = {}  # public repo needs no auth
