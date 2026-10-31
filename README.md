@@ -27,7 +27,7 @@ ch = "in"          # or the default branch you need
 # If the repo irivate, set a token here:
 # token = "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 # eaders = {"uthozation": f"token {token}"}
-headers = {}  # public repo needs no auth
+headers = {}  # public ro needs no auth
 
 # ----------------------------
 # 2️⃣  FCH ZIP ARCHIVE (quickest way to get the whole repo)
